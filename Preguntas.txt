@@ -1,0 +1,17 @@
+1. Describe brevemente de qué trata el dataset utilizado
+ El dataset contiene información sobre las 100 canciones más populares en YouTube en 2025, incluyendo datos como nombre del artista, título de la canción, número de vistas, likes, comentarios y otras métricas de popularidad.
+
+ 2.¿Qué información permite ver el resumen estadístico?
+ describe() muestra medidas como el promedio, desviación estándar, valores mínimos y máximos, y cuartiles. Esto ayuda a entender la distribución y dispersión de datos como vistas, likes o comentarios.
+
+ 3. ¿Qué cambios o tendencias se detectan en la información del dataset?
+ Se pueden ver tendencias como que algunas canciones tienen una gran concentración de vistas mientras otras se mantienen bajas, mostrando que la popularidad no está distribuida uniformemente.
+
+ 4. ¿Qué categorías sobresalen en la comparación y por qué crees que será?
+ Generalmente, las canciones de artistas con más seguidores internacionales o pertenecientes a géneros virales (ejemplo: reguetón, pop, k-pop) destacan porque tienen gran alcance global y mayor interacción en redes.
+
+ 5.¿Qué diferencias se observan entre los primeros y últimos registros?
+ Los primeros registros (head) suelen mostrar canciones con altos valores de popularidad, mientras que los últimos (tail) pueden mostrar temas menos conocidos o recién lanzados con menor impacto.
+
+ 6. ¿Qué aportan las medidas estadísticas al análisis del dataset?
+ La media, mediana y desviación estándar permiten identificar si existen valores atípicos, ver la concentración de popularidad y comparar si la distribución de vistas/likes está sesgada hacia unos pocos artistas.
