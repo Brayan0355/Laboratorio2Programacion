@@ -13,8 +13,8 @@ Grupo:
  A3
 
 Integrantes:
-Brayan Issac Caranza Amaya
-Omar David Ventura Cruz
+- Brayan Issac Caranza Amaya
+- Omar David Ventura Cruz
 
 
 Fecha de entrega: 30/9/2025
