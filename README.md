@@ -7,7 +7,7 @@ Programación Computacional III
 Docente: Willian Alexis Montes Girón
 
 Actividad:
-Laboratorio 1 Primer Cómputo
+Laboratorio 2 Segundo Cómputo
 
 Grupo:
  A3
